@@ -46,7 +46,7 @@ src/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/ecommerce-api.git
+git clone https://github.com/ErolesSA/ecommerce-api.git
 cd ecommerce-api
 ```
 
@@ -96,4 +96,4 @@ Este proyecto me permitió reforzar:
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre](https://www.linkedin.com/in/tuusuario)
+Desarrollado por [Santiago Eroles](https://www.linkedin.com/in/santiago-alan-eroles-diaz-8ab904127/)
